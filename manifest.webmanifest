@@ -1,0 +1,34 @@
+{
+  "background_color": "#ffffff",
+  "description": "Android app errors and fixes \u2014 step-by-step solutions.",
+  "dir": "auto",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUdMlkCkdm3dZew_XkAiy7tIm8-0iIAttxNet7D4Gwg6izxjHT2QDMpA5hD8D88OruxRf7hBzTzpOMjwXDDDGFX5FWSCEzHqC7UZh5olAB65XJuPzbgFPXGP7XMgzCQKf8oo2A4ao50YjYVa3lSXTRYsxWtnM-1RYbPDxYPtGePIDiZCl9_zOgHevu4zY/s192/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrq-tQQVKJb0exjbxnCTd5SkQqurRnIg46dJVL5HrquwPMGQVgioplruhc93xoEPR1d0iLtB1H1j0UvrAzpkoEPOaVInogpLDojXjbZRzuhFVVvuFEVpJMiX7T3beKvMpuUipXTIB1SSx1U7Yicng9sRB7ohTIlyLO8hcpqjitbuWpXciOxo5rmEGCQuA/s512/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRnDfNitogqry94p2MUC1W5aTTnOQ1SZJa_sUx5qfS45CypvMhDSLWYFvTcSYlw7P0snmvJcwCWphWRP-tjlB59dZsJCD12nFBDwnptNSC1As5C6b9YfCqMks4rENymnxyJKDaLHtbmB-wnjbYLWdIvyfaVqjYa40yeSZjItIBXlpClZRVULZOUNF5q4/s512/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "https://appfixguru.blogspot.com/",
+  "lang": "en",
+  "name": "App Fix Guru",
+  "orientation": "natural",
+  "prefer_related_applications": false,
+  "scope": "https://appfixguru.blogspot.com/",
+  "short_name": "AppFixGuru",
+  "start_url": "https://appfixguru.blogspot.com/?utm_source=homescreen",
+  "theme_color": "#0d47a1"
+}
