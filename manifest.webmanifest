@@ -25,7 +25,7 @@
   "id": "https://appfixguru.blogspot.com/",
   "lang": "en",
   "name": "App Fix Guru",
-  "orientation": "natural",
+  "orientation": "portrait",
   "prefer_related_applications": false,
   "scope": "https://appfixguru.blogspot.com/",
   "short_name": "AppFixGuru",
